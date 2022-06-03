@@ -1,0 +1,29 @@
+.footer-menu-container {
+    background-color: #000;
+    display: flex;
+}
+.footer-menu-container p {
+    color: #d3d3cd;
+    font-size: 15px;
+}
+.latest {
+    color: #d3d3cd;
+}
+.link-block a {
+    text-decoration: none;
+    color: #d3d3cd;
+}
+.date {
+    color: #a9a9a5;
+    font-size: 13px;
+}
+.useful {
+    color: #d3d3cd;
+}
+.contacts {
+    color: #d3d3cd;
+}
+.container-section {
+    display: flex;
+    justify-content: space-evenly;
+}

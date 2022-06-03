@@ -1,0 +1,20 @@
+header {
+    background-color: #121313;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-transform: uppercase;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    z-index: 1;
+}
+.head-menu a{
+    text-decoration: none;
+    color: #ffffffcc;
+    margin: 0 10px;
+    font-size: 13px;
+}
+.head-menu a:hover{
+    color: #fff;
+    transition: .3s;
+}

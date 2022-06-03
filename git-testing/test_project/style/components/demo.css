@@ -1,0 +1,19 @@
+.demo-text h1 {
+    font-size: 70px;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+.demo-text p {
+    color: #7777;
+    font-size: 20px;
+}
+.demo-text {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.demo {
+    text-align: center;
+    padding-top: 20px;
+}

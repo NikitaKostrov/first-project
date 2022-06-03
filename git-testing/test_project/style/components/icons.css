@@ -1,0 +1,191 @@
+.home-page a {
+    text-decoration: none;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 300;
+    padding-top: 10px;
+}
+.home-page {
+    background-color: #ffffffcc;
+    width: 15%;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    margin-top: 20px;
+}
+.home-page:hover {
+    transition: .3s;
+    color: rgb(165, 160, 160);
+}
+.different-text h1 {
+    font-size: 70px;
+    font-weight: 600;
+    padding-top: 40px;
+}
+.different-text p {
+    color: #7777;
+    font-size: 20px;    
+    padding-top: 10px;
+}
+.different-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.landing-page {
+    background-color: #ffffffcc;
+    width: 15%;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    margin-top: 20px;
+}
+.landing-page a {
+    text-decoration: none;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 300;
+    padding-top: 5px;
+}
+.inner-pages {
+    background-color: #ffffffcc;
+    width: 15%;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    margin-top: 20px;
+}
+.inner-pages a {
+    text-decoration: none;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 300;
+    padding-top: 5px;
+    padding-right: 20px;
+}
+.inner-pages img {
+    padding-right: 15px;
+}
+.blog-pages {
+    background-color: #ffffffcc;
+    width: 15%;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    margin-top: 20px;
+}
+.blog-pages a {
+    text-decoration: none;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 300;
+    padding-top: 10px;
+    padding-right: 20px;
+}
+.blog-pages img {
+    padding-right: 20px;
+}
+.padding-icon {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    font-weight: 700;
+    font-size: 15px;
+}
+.portfolio-pages {
+    background-color: #ffffffcc;
+    width: 15%;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    margin-top: 20px;
+}
+.portfolio-pages a {
+    text-decoration: none;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 300;
+    padding-top: 10px;
+}
+.shop-pages {
+    background-color: #ffffffcc;
+    width: 15%;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    margin-top: 20px;
+}
+.shop-pages a {
+    text-decoration: none;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 300;
+    padding-top: 10px;
+}
+.many-features {
+    background-color: #ffffffcc;
+    width: 15%;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    margin-top: 20px;
+}
+.many-features a {
+    text-decoration: none;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 300;
+    padding-top: 10px;
+}
+.unique-elements {
+    background-color: #ffffffcc;
+    width: 15%;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    margin-top: 20px;
+}
+.unique-elements a {
+    text-decoration: none;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 300;
+    padding-top: 10px;
+}
+.icon-padding {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    font-weight: 700;
+    font-size: 15px;
+}
+hr {
+    margin-top: 50px;
+}

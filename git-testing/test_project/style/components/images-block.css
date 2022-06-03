@@ -1,0 +1,43 @@
+.text-img h1 {
+    font-size: 70px;
+    font-weight: 600;
+    padding-top: 40px;
+}
+.text-img p {
+    color: #7777;
+    font-size: 20px;    
+    padding-top: 10px;
+}
+.text-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+/* img */
+.retina-ready {
+    background-color: #ffffffcc;
+    width: 15%;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    margin-top: 20px;
+}
+.retina-ready a {
+    text-decoration: none;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 300;
+    padding-top: 5px;
+    font-weight: 700;
+    font-size: 15px;
+}
+.images-blocks {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}

@@ -1,0 +1,39 @@
+.home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.home-inner{
+    text-align: center;
+    color: #fff;
+}
+.home-inner h1{
+    font-size: 45px;
+    letter-spacing: 0.6px;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin: 30px 0;
+}
+.home-inner p{
+    font-size: 15px;
+    line-height: 1.5;
+    letter-spacing: 0.4px;
+    text-align: center;
+}
+.home-inner a{
+    text-decoration: none;
+    color: #fff;
+    padding: 20px 50px;
+    display: inline-block;
+    border-radius: 5px;
+    margin-top: 30px;
+    text-transform: uppercase;
+    font-weight: 500;
+    border: #fff solid 1px;
+    margin: 0 10px;
+    margin-top: 20px;
+} 
+.home {
+    height: 100vh;
+    background-color: #000;
+}
